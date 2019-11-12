@@ -1,0 +1,6 @@
+# Learning Quran and Dua by playing games
+
+Enjoying and justifing the knowlege of Quran and Dua through playing games. Listen a audio sound from quran and user need to store Sura of 
+the Ayah in a Bag to increase his/her score and for this he/she have three lives and three level. To get better score to collect sura more
+into the Bag. Highest score will be store in the database server and local memory. In case of database failure, the games fatches data from
+local directory. 
